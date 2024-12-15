@@ -11,8 +11,8 @@ This project analyzes the **Superstore Dataset** to uncover insights into sales,
 ---
 
 ## Project Files
-- **[Superstore_Analysis.ipynb](./Superstore_Analysis.ipynb)**: Interactive Jupyter Notebook containing the full analysis.
-- **[Superstore_Analysis.pdf](./Superstore_Analysis.pdf)**: A static PDF version with all outputs and visualizations.
+- **[Superstore-Data-Analysis.ipynb](./Superstore-Data-Analysis.ipynb)**: Interactive Jupyter Notebook containing the full analysis.
+- **[Superstore-Data-Analysis.pdf](./Superstore-Data-Analysis.pdf)**: A static PDF version with all outputs and visualizations.
 
 ---
 
